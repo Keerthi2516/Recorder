@@ -1,4 +1,4 @@
-# Recorder
+# Screen Recorder
 A web application that enables users to record videos with audio, capture still photos, and apply real-time filters, all built using HTML, CSS, and JavaScript.
 
 Features
